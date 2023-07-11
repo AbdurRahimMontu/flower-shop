@@ -122,3 +122,37 @@ color: #ffffff;
     font-weight: 700;
     margin-top: 30px;
 }
+.instagram-image{
+    width: 1200px;
+    height: 450px;
+    display: flex;
+
+    justify-content:space-between;
+   margin: 0 auto;
+   border: 1px solid black;
+   align-items: center;
+}
+.instagram-image1{
+width: 250px;
+}
+.instagram-content{
+  
+  margin-top: 40px;
+  margin-bottom: 40px;
+ text-align: center;
+
+    
+}
+.instagram-title{
+    font-size: 30px;
+    font-weight: 700;
+}
+.instagram-para{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+
+}
+
+
+   
+
