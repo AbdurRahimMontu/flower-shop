@@ -7,6 +7,7 @@
 img{
     width: 100%;
 }
+/* header section  */
 header{
  
     background: rgba(229, 84, 115, 0.10);
@@ -66,12 +67,58 @@ margin-top: 30px;
 .header-banner-btn{
     border-radius: 8px;
     background-color: #E55473;
-    display: inline-flex;
     padding: 20px 43px;
-    align-items: flex-start;
     gap: 10px;
     color: #ffffff;
     font-size: 20px;
+    font-weight: 700;
+    margin-top: 30px;
+}
+/* offer section  */
+.offer-container{
+    height: 515px;
+    display: flex;
+
+background: rgba(229, 84, 115, 0.05);
+align-items: center;
+justify-content:space-around;
+
+}
+.offer-content{
+    width: 600px;
+padding-left: 120px;
+    text-align: center;
+
+ 
+    
+  
+
+}
+.offer-image{
+    width: 600px;
+    text-align: center;
+}
+.offer-image img{
+    width: 250px;
+
+
+
+}
+.offer-off{
+    color:#E55473;
+}
+.offer-para{
+    margin-top: 20px;
+    font-size: 16px;
+    color: rgba(39, 39, 39, 0.60);
+    
+}
+.offer-btn{
+    border-radius: 8px;
+    background-color: #E55473;
+padding: 20px 43px;
+color: #ffffff;
+    font-size: 18px;
     font-weight: 700;
     margin-top: 30px;
 }
