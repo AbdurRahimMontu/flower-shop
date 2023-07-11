@@ -115,6 +115,7 @@ margin-top: 30px;
 .instagram-para {
   color: rgba(39, 39, 39, 0.6);
   font-size: 16px;
+  margin-top: 20px;
 }
 
 .deal-container {
@@ -167,6 +168,7 @@ margin-top: 30px;
   text-align: center;
   display: flex;
   align-items: center;
+  margin-top: 85px;
 }
 span.flower {
   color: #e55473;
