@@ -188,3 +188,56 @@ span.flower {
 .footer-content {
   margin: 0 auto;
 }
+/* flower feather section  */
+.flower-container{
+  width: 1200px;
+  height:450px;
+
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  text-align: center;
+  margin: 0 auto;
+}
+.flower1{
+  width: 300px;
+  height: 450px;
+ 
+
+
+}
+.flower-pink{
+  padding-top:36px ;
+ 
+  border-radius: 300px 300px 0px 0px;
+background: rgba(167, 33, 98, 0.15);
+
+}
+
+.flower-red{
+  padding-top:110px;
+  border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+}
+.flower-red-link{
+  padding-top:38px
+}
+.flower-green{
+  padding-bottom:60px;
+  border-radius: 300px 300px 0px 0px;
+background: rgba(71, 125, 17, 0.15);
+}
+.feather-content{
+  margin: 30px auto;
+  text-align: center;
+}
+.feather-title{
+  margin-bottom: 15px;
+}
+.feather-para{
+  color: rgba(39, 39, 39, 0.60);
+}
+
+ .link-color{
+color: #272727;
+ }
